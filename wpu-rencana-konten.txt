@@ -3,5 +3,8 @@ Rencana konten
 -Html
 -PHP
 -Framework Js
--OOP
--Database
+-rust
+-python
+-laravel
+-react
+

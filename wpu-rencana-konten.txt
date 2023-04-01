@@ -4,3 +4,6 @@ Rencana konten
 -PHP
 -Framework Js
 -rust
+-python
+-laravel
+-react

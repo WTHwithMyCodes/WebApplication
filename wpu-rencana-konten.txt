@@ -3,4 +3,5 @@ Rencana konten
 -Html
 -PHP
 -Framework Js
--rust
+-OOP
+-Database

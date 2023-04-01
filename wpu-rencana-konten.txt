@@ -6,3 +6,4 @@ Rencana konten
 -rust
 -python
 -laravel
+-react
